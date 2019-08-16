@@ -1,12 +1,12 @@
 /*----- CUSTOM FONT -----*/
 @font-face {
     font-family: "Bauhaus93";
-    src: url("/fonts/bauhaus93.eot");
-    src: url("/fonts/bauhaus93.eot?#iefix") format("embedded-opentype"),
-        url("/fonts/bauhaus93.woff2") format("woff2"),
-        url("/fonts/bauhaus93.woff") format("woff"),
-        url("/fonts/bauhaus93.ttf") format("truetype"),
-        url("/fonts/bauhaus93.svg#bauhaus93") format("svg");
+    src: url("fonts/bauhaus93.eot");
+    src: url("fonts/bauhaus93.eot?#iefix") format("embedded-opentype"),
+        url("fonts/bauhaus93.woff2") format("woff2"),
+        url("fonts/bauhaus93.woff") format("woff"),
+        url("fonts/bauhaus93.ttf") format("truetype"),
+        url("fonts/bauhaus93.svg#bauhaus93") format("svg");
 }
 
 /*----- ROOT VARIABLES -----*/
