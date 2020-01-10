@@ -18,4 +18,4 @@ Dessau is home to the [Bauhaus](https://en.wikipedia.org/wiki/Bauhaus), which ce
 
 ![Bauhaus100](bauhaus100.gif?raw=true "Bauhaus100")
 
-## Check out my [live/interactive](https://traveltimn.github.io/bauhaus100/) version!
+## Check out my [live/interactive](https://traveltimn.github.io/bauhaus100/) version! I designed the entire page with CSS Grid.
