@@ -1,3 +1,7 @@
+10DEC2020 - Update branch from `master` to `main`.
+
+---
+
 # [100 Years of Bauhaus](https://traveltimn.github.io/bauhaus100/)
 
 From 2002-2003, I studied in [Dessau, Germany](https://goo.gl/maps/1QHpVWvN3wF97kKU8) as an international exchange student. I received a full congressional scholarship through [CBYX](https://exchanges.state.gov/us/program/congress-bundestag-youth-exchange) funded by the US Congress and German Parliament.
